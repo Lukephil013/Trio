@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/Lukephil013/Trio.svg?branch=master)](https://travis-ci.org/Lukephil013/Trio)
 language: cpp
 os: linux
 script:
